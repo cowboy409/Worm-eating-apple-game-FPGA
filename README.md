@@ -3,7 +3,7 @@
 Design Project for Digital Logic Laboratory Class, Oct 2012 ~ Nov 2012.  
 Designed by Jae Seung Won, Hyun Joon Chae
 
-#1 Discription  
+#1 Description  
  The goal of this game is to eat apple as many as you can.  
  If the head of worm meats it's body, then it will die.  
  Used Quartus VHDL Program.
